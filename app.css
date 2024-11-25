@@ -1,0 +1,40 @@
+body {
+  font-family: "Roboto", serif;
+  color: #fdfffc !important;
+  background-color: #161925 !important;
+}
+
+.introduction {
+  border: 1px solid #161925;
+  border-bottom: 1px solid #fdfffc;
+  text-align: center;
+  padding: 10rem;
+  background-color: #0c0e14;
+}
+
+.introduction h1 {
+  font-size: 3.5rem;
+  color: #fdfffc;
+  margin-bottom: 0;
+}
+
+.introduction p {
+  font-size: 1.8rem;
+  color: #fdfffc;
+  position: relative;
+  overflow: hidden;
+}
+
+.introduction p span {
+  position: relative;
+  color: #007f4c;
+}
+
+.introduction p span:hover {
+  text-decoration: underline;
+}
+
+.introduction p span a {
+  color: #007f4c;
+  text-decoration: none;
+}
