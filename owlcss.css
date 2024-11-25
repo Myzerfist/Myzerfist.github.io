@@ -33,3 +33,20 @@
     margin: 10px 0;
   }
 }
+
+.s-btn {
+  padding: 10px 20px;
+  background-color: #fa7900;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.s-btn:hover {
+  background-color: #fbff00;
+  color: black;
+  transform: scale(1.1);
+  font-weight: bold;
+}

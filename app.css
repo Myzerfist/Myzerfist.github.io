@@ -92,3 +92,29 @@ body {
   display: inline-block;
   width: 10%;
 }
+
+footer {
+  background-color: #0c0e14;
+  color: #fdfffc;
+  padding: 2rem;
+  text-align: center;
+}
+
+.s-btn {
+  margin: 1em;
+  padding: 1rem 2rem;
+}
+
+.s-btn a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+.s-btn a:hover {
+  color: black;
+}
+
+.s-btn:hover {
+  color: black;
+  font-weight: bold;
+}
