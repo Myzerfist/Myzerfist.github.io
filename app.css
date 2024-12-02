@@ -105,12 +105,16 @@ footer {
   padding: 1rem 2rem;
 }
 
-.s-btn a {
+.s-btn li {
+  list-style: none;
+}
+
+.s-btn li a {
   color: rgb(0, 0, 0);
   text-decoration: none;
 }
 
-.s-btn a:hover {
+.s-btn li a:hover {
   color: black;
 }
 
